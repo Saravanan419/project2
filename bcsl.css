@@ -1,0 +1,23 @@
+body{
+	color: white;
+    background: url(cover.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-repeat: fixed;
+    background-size: 2000px 4050px;
+}
+img{
+    border-radius: 14px;
+    border: 1px solid white;
+    padding: 5px;
+}
+p{
+    color: black;
+    background-color: black;
+}
+h1{
+    padding: 10px 450px;
+}
+h2{
+font-family: Tahoma, Verdana, sans-serif;
+}

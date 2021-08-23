@@ -1,0 +1,19 @@
+img {
+    max-width: 15%;
+    max-height: 15%;
+    border-style: solid;
+    border-color: royalblue;
+    
+    height: 100px;  
+    width: 100px;  
+    border: 2px royal blue;  
+    
+}
+body{
+	color: white;
+    background: url(main.jpg);
+    background-size: cover;
+}
+li{
+	text-decoration-color: white;
+}
